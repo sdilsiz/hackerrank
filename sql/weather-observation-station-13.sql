@@ -1,0 +1,1 @@
+select cast(round(sum(Lat_N),4,4)as decimal(18,4)) from STATION where Lat_N between 38.7880 and 137.2345;

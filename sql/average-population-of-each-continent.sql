@@ -1,0 +1,1 @@
+select c.continent,avg(i.population) from CITY i inner join  COUNTRY c  on i.countrycode=c.code  group by c.continent;
