@@ -14,8 +14,14 @@ namespace TestAppHackerRank {
             //Day5.Run();
             //Day6.Run();
             //Day7.Run();
-            Day8.Run();
-
+            //Day8.Run();
+            //Day109.Run();
+            //Day110.Run();
+            //Day111.Run();
+            //Day112.Run();
+            //Day113.Run();
+            Day114.Run();
+            
         }
     }
 }

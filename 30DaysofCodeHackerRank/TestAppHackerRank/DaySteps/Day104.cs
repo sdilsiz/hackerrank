@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TestAppHackerRank {
-    public class Day4 {
+    public class Day104 {
 
 
         public static void Run() {

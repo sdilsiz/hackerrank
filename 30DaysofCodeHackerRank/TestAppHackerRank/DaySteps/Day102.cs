@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TestAppHackerRank {
-    public class Day2 {
+    public class Day102 {
         public static void Run() {
 
             double meal_cost = Convert.ToDouble(Console.ReadLine());

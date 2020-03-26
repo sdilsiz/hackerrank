@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace TestAppHackerRank {
-    internal class Day6 {
+    internal class Day106 {
         internal static void Run() {
 
             var S = string.Empty;

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TestAppHackerRank {
-    public class Day3 {
+    public class Day103 {
         public static void Run() {
             //If is odd, print Weird
             //If is even and in the inclusive range of 2 to 5  , print Not Weird

@@ -43,19 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Day2.cs" />
-    <Compile Include="Day1.cs" />
-    <Compile Include="Day3.cs" />
-    <Compile Include="Day4.cs" />
-    <Compile Include="Day5.cs" />
-    <Compile Include="Day6.cs" />
-    <Compile Include="Day7.cs" />
-    <Compile Include="Day8.cs" />
+    <Compile Include="DaySteps\Day114.cs" />
+    <Compile Include="Day115.cs" />
+    <Compile Include="DaySteps\Day102.cs" />
+    <Compile Include="DaySteps\Day101.cs" />
+    <Compile Include="DaySteps\Day103.cs" />
+    <Compile Include="DaySteps\Day104.cs" />
+    <Compile Include="DaySteps\Day105.cs" />
+    <Compile Include="DaySteps\Day106.cs" />
+    <Compile Include="DaySteps\Day107.cs" />
+    <Compile Include="DaySteps\Day112.cs" />
+    <Compile Include="DaySteps\Day111.cs" />
+    <Compile Include="DaySteps\Day110.cs" />
+    <Compile Include="DaySteps\Day109.cs" />
+    <Compile Include="DaySteps\Day108.cs" />
+    <Compile Include="DaySteps\Day113.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

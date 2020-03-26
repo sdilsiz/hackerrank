@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace TestAppHackerRank {
-    internal class Day7 {
+    internal class Day107 {
         internal static void Run() {
             int n = Convert.ToInt32(Console.ReadLine());
 
