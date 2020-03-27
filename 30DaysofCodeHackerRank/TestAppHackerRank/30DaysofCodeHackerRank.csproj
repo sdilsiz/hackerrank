@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DaySteps\Day114.cs" />
-    <Compile Include="Day115.cs" />
+    <Compile Include="DaySteps\Day115.cs" />
     <Compile Include="DaySteps\Day102.cs" />
     <Compile Include="DaySteps\Day101.cs" />
     <Compile Include="DaySteps\Day103.cs" />
@@ -58,6 +58,7 @@
     <Compile Include="DaySteps\Day109.cs" />
     <Compile Include="DaySteps\Day108.cs" />
     <Compile Include="DaySteps\Day113.cs" />
+    <Compile Include="DaySteps\Day116.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

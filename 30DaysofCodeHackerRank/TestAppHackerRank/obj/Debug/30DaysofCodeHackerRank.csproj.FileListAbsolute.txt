@@ -1,3 +1,10 @@
 C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\obj\Debug\30DaysofCodeHackerRank.csprojAssemblyReference.cache
 C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.exe
 C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.pdb
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.exe.config
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.exe
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.pdb
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\30DaysofCodeHackerRank.csprojAssemblyReference.cache
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\30DaysofCodeHackerRank.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.exe
+D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.pdb
