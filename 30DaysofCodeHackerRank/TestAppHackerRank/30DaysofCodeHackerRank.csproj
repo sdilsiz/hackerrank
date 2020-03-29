@@ -58,7 +58,19 @@
     <Compile Include="DaySteps\Day109.cs" />
     <Compile Include="DaySteps\Day108.cs" />
     <Compile Include="DaySteps\Day113.cs" />
+    <Compile Include="DaySteps\Day118.cs" />
+    <Compile Include="DaySteps\Day117.cs" />
     <Compile Include="DaySteps\Day116.cs" />
+    <Compile Include="DaySteps\Day121.cs" />
+    <Compile Include="DaySteps\Day122.cs" />
+    <Compile Include="DaySteps\Day123.cs" />
+    <Compile Include="DaySteps\Day124.cs" />
+    <Compile Include="DaySteps\Day125.cs" />
+    <Compile Include="DaySteps\Day126.cs" />
+    <Compile Include="DaySteps\Day127.cs" />
+    <Compile Include="DaySteps\Day199.cs" />
+    <Compile Include="DaySteps\Day120.cs" />
+    <Compile Include="DaySteps\Day119.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

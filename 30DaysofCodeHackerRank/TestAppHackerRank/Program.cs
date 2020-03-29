@@ -25,7 +25,18 @@ namespace TestAppHackerRank {
             //Day115.Run();
             //Day116.Run();
             //Day117.Run();
-            Day118.Run();
+            //Day118.Solution.Run();
+            //Day119.Run();
+            //Day120.Run();
+            //Day118.Solution.Run();
+            //Day119.Run();
+            //Day120.Run();
+            //Day121.Run();
+            //Day122.Run();
+            //Day123.Run();
+            //Day124.Run();
+            //Day125.Run();
+            Day126.Run();
         }
 
 
