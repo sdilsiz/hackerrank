@@ -68,6 +68,8 @@
     <Compile Include="DaySteps\Day125.cs" />
     <Compile Include="DaySteps\Day126.cs" />
     <Compile Include="DaySteps\Day127.cs" />
+    <Compile Include="DaySteps\Day128.cs" />
+    <Compile Include="DaySteps\Day129.cs" />
     <Compile Include="DaySteps\Day199.cs" />
     <Compile Include="DaySteps\Day120.cs" />
     <Compile Include="DaySteps\Day119.cs" />
