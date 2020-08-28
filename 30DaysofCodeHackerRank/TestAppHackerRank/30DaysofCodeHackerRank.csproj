@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DaySteps\Liste6.cs" />
-    <Compile Include="DaySteps\OdevIntermediate9.cs" />
-    <Compile Include="listestiring\OdevString14.cs" />
     <Compile Include="DaySteps\Day114.cs" />
     <Compile Include="DaySteps\Day115.cs" />
     <Compile Include="DaySteps\Day102.cs" />
@@ -82,8 +79,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="intermediate\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
