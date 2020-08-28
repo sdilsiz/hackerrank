@@ -1,0 +1,13 @@
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\bin\Debug\net5.0\listeodev9.exe
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\bin\Debug\net5.0\listeodev9.deps.json
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\bin\Debug\net5.0\listeodev9.runtimeconfig.json
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\bin\Debug\net5.0\listeodev9.runtimeconfig.dev.json
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\bin\Debug\net5.0\listeodev9.dll
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\bin\Debug\net5.0\listeodev9.pdb
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.csprojAssemblyReference.cache
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.AssemblyInfoInputs.cache
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.AssemblyInfo.cs
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.csproj.CoreCompileInputs.cache
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.dll
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.pdb
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\listeodev9\obj\Debug\net5.0\listeodev9.genruntimeconfig.cache

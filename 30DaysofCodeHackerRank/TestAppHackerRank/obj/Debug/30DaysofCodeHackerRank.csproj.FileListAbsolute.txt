@@ -8,3 +8,10 @@ D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\o
 D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\30DaysofCodeHackerRank.csproj.CoreCompileInputs.cache
 D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.exe
 D:\SourceControl\Git\MyGit\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.pdb
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.exe.config
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.exe
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.pdb
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\30DaysofCodeHackerRank.csprojAssemblyReference.cache
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\30DaysofCodeHackerRank.csproj.CoreCompileInputs.cache
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.exe
+D:\sc\Git\m\hackerrank\30DaysofCodeHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.pdb
