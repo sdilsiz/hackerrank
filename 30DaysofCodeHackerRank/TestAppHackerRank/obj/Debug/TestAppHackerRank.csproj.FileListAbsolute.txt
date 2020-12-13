@@ -1,6 +1,0 @@
-C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.exe.config
-C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.exe
-C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\bin\Debug\TestAppHackerRank.pdb
-C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.csprojAssemblyReference.cache
-C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.exe
-C:\Users\sdilsiz\source\repos\TestAppHackerRank\TestAppHackerRank\obj\Debug\TestAppHackerRank.pdb
