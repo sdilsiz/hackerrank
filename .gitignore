@@ -6,3 +6,16 @@
 .InterviewPreparationKit/WarmUpChallenges/bin
 .InterviewPreparationKit/WarmUpChallenges/obj
 
+bin
+obj
+config
+/node_modules
+
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
