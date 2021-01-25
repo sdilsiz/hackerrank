@@ -18,13 +18,34 @@ namespace WarmUpChallenges
     {
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World!");
-            // var arr = new int[];
 
-            var arr = new int[] { 10, 20, 20, 10, 10, 30, 50, 10, 20 };
-            var x = sockMerchant(9, arr);
-            Console.WriteLine(x);
+            // var result = CountingValleys.countingValleys(8, "UDDDUDUU"); Console.WriteLine(result);
+            // int[] array = new int[] { 0, 0, 1, 0, 0, 1, 0 };
+            // var result = JumpingOnTheClouds.jumpingOnClouds(array); Console.WriteLine(result);
+            // var x = RepeatedString.repeatedString("kmretasscityylpdhuwjirnqimlkcgxubxmsxpypgzxtenweirknjtasxtvxemtwxuarabssvqdnktqadhyktagjxoanknhgilnm", 736778906400);
+            // Console.WriteLine(x);
+
+
+
         }
+
+
+        public interface Iperson
+        {
+            int Name { get; set; }
+            void Print();
+        }
+
+        public class Person : Iperson
+        {
+            public int Name { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+            public void Print()
+            {
+                throw new NotImplementedException();
+            }
+        }
+
 
         static int sockMerchant(int n, int[] ar)
         {
@@ -56,7 +77,8 @@ namespace WarmUpChallenges
                 }
             }
 
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++)
+            {
                 Console.WriteLine(newArray[i, 0] + "--" + newArray[i, 1]);
             }
 
