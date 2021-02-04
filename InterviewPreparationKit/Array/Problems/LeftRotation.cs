@@ -1,4 +1,9 @@
 
+using System;
+using System.IO;
+using System.Collections.Generic;
+using System.Linq;
+ 
 
 public static class LeftRotation
 {
@@ -15,9 +20,9 @@ public static class LeftRotation
 
         var arrayStr = File.ReadAllText("testArray.txt");
         //var array = arrayStr.Split(' ');
+        // var x =Array.ConvertAll();
 
-        int[] array = Array.ConvertAll(arrayStr.Split(' '), aTemp => Convert.ToInt32(aTemp))
-   ;
+        // int[] array = Array.ConvertAll(arrayStr.Split(' '), aTemp => Convert.ToInt32(aTemp));
 
         var d = 60581;
         a = rotLeft(a, d);

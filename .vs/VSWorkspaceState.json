@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\InterviewPreparationKit",
     "\\InterviewPreparationKit\\Array",
-    "\\InterviewPreparationKit\\Array\\LeftRotation"
+    "\\InterviewPreparationKit\\Array\\Problems"
   ],
-  "SelectedNode": "\\InterviewPreparationKit\\Array\\LeftRotation\\LeftRotation.csproj",
+  "SelectedNode": "\\InterviewPreparationKit",
   "PreviewInSolutionExplorer": false
 }

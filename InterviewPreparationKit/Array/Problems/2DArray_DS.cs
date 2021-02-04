@@ -1,3 +1,6 @@
+using System;
+
+
 public static class DArray_DS
 {
     public static void Run()
@@ -5,8 +8,6 @@ public static class DArray_DS
         //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         int[][] arr = new int[6][];
-
-
 
         // Console.WriteLine(arr.Length);
         // Console.Write(arr[0].Length);
